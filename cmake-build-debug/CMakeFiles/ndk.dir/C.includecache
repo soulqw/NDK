@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/cd5160866/CLionProjects/ndk/day1/FirstHead.c
+
+/Users/cd5160866/CLionProjects/ndk/day1/FirstHead.h
+
+/Users/cd5160866/CLionProjects/ndk/day1/TestHead.c
+stdio.h
+-
+FirstHead.h
+/Users/cd5160866/CLionProjects/ndk/day1/FirstHead.h
+
+/Users/cd5160866/CLionProjects/ndk/day1/static.c
+stdio.h
+-
+

@@ -1,0 +1,3 @@
+/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir
