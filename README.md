@@ -1,1 +1,1 @@
-# THisa is NDK learn
+# about NDK learning
