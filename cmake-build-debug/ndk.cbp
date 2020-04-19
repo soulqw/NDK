@@ -96,7 +96,13 @@
 		<Unit filename="/Users/cd5160866/CLionProjects/ndk/day1/operator/complex.c">
 			<Option target="ndk"/>
 		</Unit>
+		<Unit filename="/Users/cd5160866/CLionProjects/ndk/day1/point/point.c">
+			<Option target="ndk"/>
+		</Unit>
 		<Unit filename="/Users/cd5160866/CLionProjects/ndk/day1/static.c">
+			<Option target="ndk"/>
+		</Unit>
+		<Unit filename="/Users/cd5160866/CLionProjects/ndk/day1/string/string.c">
 			<Option target="ndk"/>
 		</Unit>
 		<Unit filename="/Users/cd5160866/CLionProjects/ndk/day1/testHead.c">

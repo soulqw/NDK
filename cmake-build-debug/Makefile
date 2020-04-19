@@ -258,6 +258,33 @@ day1/operator/complex.c.s:
 	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/operator/complex.c.s
 .PHONY : day1/operator/complex.c.s
 
+day1/point/point.o: day1/point/point.c.o
+
+.PHONY : day1/point/point.o
+
+# target to build an object file
+day1/point/point.c.o:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/point/point.c.o
+.PHONY : day1/point/point.c.o
+
+day1/point/point.i: day1/point/point.c.i
+
+.PHONY : day1/point/point.i
+
+# target to preprocess a source file
+day1/point/point.c.i:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/point/point.c.i
+.PHONY : day1/point/point.c.i
+
+day1/point/point.s: day1/point/point.c.s
+
+.PHONY : day1/point/point.s
+
+# target to generate assembly for a file
+day1/point/point.c.s:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/point/point.c.s
+.PHONY : day1/point/point.c.s
+
 day1/static.o: day1/static.c.o
 
 .PHONY : day1/static.o
@@ -284,6 +311,33 @@ day1/static.s: day1/static.c.s
 day1/static.c.s:
 	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/static.c.s
 .PHONY : day1/static.c.s
+
+day1/string/string.o: day1/string/string.c.o
+
+.PHONY : day1/string/string.o
+
+# target to build an object file
+day1/string/string.c.o:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/string/string.c.o
+.PHONY : day1/string/string.c.o
+
+day1/string/string.i: day1/string/string.c.i
+
+.PHONY : day1/string/string.i
+
+# target to preprocess a source file
+day1/string/string.c.i:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/string/string.c.i
+.PHONY : day1/string/string.c.i
+
+day1/string/string.s: day1/string/string.c.s
+
+.PHONY : day1/string/string.s
+
+# target to generate assembly for a file
+day1/string/string.c.s:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/string/string.c.s
+.PHONY : day1/string/string.c.s
 
 day1/testHead.o: day1/testHead.c.o
 
@@ -363,9 +417,15 @@ help:
 	@echo "... day1/operator/complex.o"
 	@echo "... day1/operator/complex.i"
 	@echo "... day1/operator/complex.s"
+	@echo "... day1/point/point.o"
+	@echo "... day1/point/point.i"
+	@echo "... day1/point/point.s"
 	@echo "... day1/static.o"
 	@echo "... day1/static.i"
 	@echo "... day1/static.s"
+	@echo "... day1/string/string.o"
+	@echo "... day1/string/string.i"
+	@echo "... day1/string/string.s"
 	@echo "... day1/testHead.o"
 	@echo "... day1/testHead.i"
 	@echo "... day1/testHead.s"
