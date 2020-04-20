@@ -339,6 +339,33 @@ day1/string/string.c.s:
 	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/string/string.c.s
 .PHONY : day1/string/string.c.s
 
+day1/structure/structure.o: day1/structure/structure.c.o
+
+.PHONY : day1/structure/structure.o
+
+# target to build an object file
+day1/structure/structure.c.o:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/structure/structure.c.o
+.PHONY : day1/structure/structure.c.o
+
+day1/structure/structure.i: day1/structure/structure.c.i
+
+.PHONY : day1/structure/structure.i
+
+# target to preprocess a source file
+day1/structure/structure.c.i:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/structure/structure.c.i
+.PHONY : day1/structure/structure.c.i
+
+day1/structure/structure.s: day1/structure/structure.c.s
+
+.PHONY : day1/structure/structure.s
+
+# target to generate assembly for a file
+day1/structure/structure.c.s:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/structure/structure.c.s
+.PHONY : day1/structure/structure.c.s
+
 day1/testHead.o: day1/testHead.c.o
 
 .PHONY : day1/testHead.o
@@ -426,6 +453,9 @@ help:
 	@echo "... day1/string/string.o"
 	@echo "... day1/string/string.i"
 	@echo "... day1/string/string.s"
+	@echo "... day1/structure/structure.o"
+	@echo "... day1/structure/structure.i"
+	@echo "... day1/structure/structure.s"
 	@echo "... day1/testHead.o"
 	@echo "... day1/testHead.i"
 	@echo "... day1/testHead.s"

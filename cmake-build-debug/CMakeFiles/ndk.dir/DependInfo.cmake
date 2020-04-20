@@ -12,6 +12,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/cd5160866/CLionProjects/ndk/day1/point/point.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/day1/point/point.c.o"
   "/Users/cd5160866/CLionProjects/ndk/day1/static.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/day1/static.c.o"
   "/Users/cd5160866/CLionProjects/ndk/day1/string/string.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/day1/string/string.c.o"
+  "/Users/cd5160866/CLionProjects/ndk/day1/structure/structure.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/day1/structure/structure.c.o"
   "/Users/cd5160866/CLionProjects/ndk/day1/testHead.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/day1/testHead.c.o"
   "/Users/cd5160866/CLionProjects/ndk/main.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/main.c.o"
   )
