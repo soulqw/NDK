@@ -7,6 +7,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/ndk.dir/day1/point/point.c.o"
   "CMakeFiles/ndk.dir/day1/static.c.o"
   "CMakeFiles/ndk.dir/day1/string/string.c.o"
+  "CMakeFiles/ndk.dir/day1/structure/biteFiled.c.o"
   "CMakeFiles/ndk.dir/day1/structure/structure.c.o"
   "CMakeFiles/ndk.dir/day1/testHead.c.o"
   "CMakeFiles/ndk.dir/main.c.o"

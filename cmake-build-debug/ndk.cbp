@@ -105,6 +105,9 @@
 		<Unit filename="/Users/cd5160866/CLionProjects/ndk/day1/string/string.c">
 			<Option target="ndk"/>
 		</Unit>
+		<Unit filename="/Users/cd5160866/CLionProjects/ndk/day1/structure/biteFiled.c">
+			<Option target="ndk"/>
+		</Unit>
 		<Unit filename="/Users/cd5160866/CLionProjects/ndk/day1/structure/structure.c">
 			<Option target="ndk"/>
 		</Unit>
