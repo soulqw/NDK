@@ -123,302 +123,329 @@ ndk/fast:
 	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/build
 .PHONY : ndk/fast
 
-day1/FirstHead.o: day1/FirstHead.c.o
+c/FirstHead.o: c/FirstHead.c.o
 
-.PHONY : day1/FirstHead.o
-
-# target to build an object file
-day1/FirstHead.c.o:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/FirstHead.c.o
-.PHONY : day1/FirstHead.c.o
-
-day1/FirstHead.i: day1/FirstHead.c.i
-
-.PHONY : day1/FirstHead.i
-
-# target to preprocess a source file
-day1/FirstHead.c.i:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/FirstHead.c.i
-.PHONY : day1/FirstHead.c.i
-
-day1/FirstHead.s: day1/FirstHead.c.s
-
-.PHONY : day1/FirstHead.s
-
-# target to generate assembly for a file
-day1/FirstHead.c.s:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/FirstHead.c.s
-.PHONY : day1/FirstHead.c.s
-
-day1/array/array.o: day1/array/array.c.o
-
-.PHONY : day1/array/array.o
+.PHONY : c/FirstHead.o
 
 # target to build an object file
-day1/array/array.c.o:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/array/array.c.o
-.PHONY : day1/array/array.c.o
+c/FirstHead.c.o:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/FirstHead.c.o
+.PHONY : c/FirstHead.c.o
 
-day1/array/array.i: day1/array/array.c.i
+c/FirstHead.i: c/FirstHead.c.i
 
-.PHONY : day1/array/array.i
+.PHONY : c/FirstHead.i
 
 # target to preprocess a source file
-day1/array/array.c.i:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/array/array.c.i
-.PHONY : day1/array/array.c.i
+c/FirstHead.c.i:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/FirstHead.c.i
+.PHONY : c/FirstHead.c.i
 
-day1/array/array.s: day1/array/array.c.s
+c/FirstHead.s: c/FirstHead.c.s
 
-.PHONY : day1/array/array.s
+.PHONY : c/FirstHead.s
 
 # target to generate assembly for a file
-day1/array/array.c.s:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/array/array.c.s
-.PHONY : day1/array/array.c.s
+c/FirstHead.c.s:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/FirstHead.c.s
+.PHONY : c/FirstHead.c.s
 
-day1/enums.o: day1/enums.c.o
+c/array/array.o: c/array/array.c.o
 
-.PHONY : day1/enums.o
+.PHONY : c/array/array.o
 
 # target to build an object file
-day1/enums.c.o:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/enums.c.o
-.PHONY : day1/enums.c.o
+c/array/array.c.o:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/array/array.c.o
+.PHONY : c/array/array.c.o
 
-day1/enums.i: day1/enums.c.i
+c/array/array.i: c/array/array.c.i
 
-.PHONY : day1/enums.i
+.PHONY : c/array/array.i
 
 # target to preprocess a source file
-day1/enums.c.i:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/enums.c.i
-.PHONY : day1/enums.c.i
+c/array/array.c.i:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/array/array.c.i
+.PHONY : c/array/array.c.i
 
-day1/enums.s: day1/enums.c.s
+c/array/array.s: c/array/array.c.s
 
-.PHONY : day1/enums.s
+.PHONY : c/array/array.s
 
 # target to generate assembly for a file
-day1/enums.c.s:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/enums.c.s
-.PHONY : day1/enums.c.s
+c/array/array.c.s:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/array/array.c.s
+.PHONY : c/array/array.c.s
 
-day1/operator/Math.o: day1/operator/Math.c.o
+c/enums.o: c/enums.c.o
 
-.PHONY : day1/operator/Math.o
+.PHONY : c/enums.o
 
 # target to build an object file
-day1/operator/Math.c.o:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/operator/Math.c.o
-.PHONY : day1/operator/Math.c.o
+c/enums.c.o:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/enums.c.o
+.PHONY : c/enums.c.o
 
-day1/operator/Math.i: day1/operator/Math.c.i
+c/enums.i: c/enums.c.i
 
-.PHONY : day1/operator/Math.i
+.PHONY : c/enums.i
 
 # target to preprocess a source file
-day1/operator/Math.c.i:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/operator/Math.c.i
-.PHONY : day1/operator/Math.c.i
+c/enums.c.i:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/enums.c.i
+.PHONY : c/enums.c.i
 
-day1/operator/Math.s: day1/operator/Math.c.s
+c/enums.s: c/enums.c.s
 
-.PHONY : day1/operator/Math.s
+.PHONY : c/enums.s
 
 # target to generate assembly for a file
-day1/operator/Math.c.s:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/operator/Math.c.s
-.PHONY : day1/operator/Math.c.s
+c/enums.c.s:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/enums.c.s
+.PHONY : c/enums.c.s
 
-day1/operator/complex.o: day1/operator/complex.c.o
+c/operator/Math.o: c/operator/Math.c.o
 
-.PHONY : day1/operator/complex.o
+.PHONY : c/operator/Math.o
 
 # target to build an object file
-day1/operator/complex.c.o:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/operator/complex.c.o
-.PHONY : day1/operator/complex.c.o
+c/operator/Math.c.o:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/operator/Math.c.o
+.PHONY : c/operator/Math.c.o
 
-day1/operator/complex.i: day1/operator/complex.c.i
+c/operator/Math.i: c/operator/Math.c.i
 
-.PHONY : day1/operator/complex.i
+.PHONY : c/operator/Math.i
 
 # target to preprocess a source file
-day1/operator/complex.c.i:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/operator/complex.c.i
-.PHONY : day1/operator/complex.c.i
+c/operator/Math.c.i:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/operator/Math.c.i
+.PHONY : c/operator/Math.c.i
 
-day1/operator/complex.s: day1/operator/complex.c.s
+c/operator/Math.s: c/operator/Math.c.s
 
-.PHONY : day1/operator/complex.s
+.PHONY : c/operator/Math.s
 
 # target to generate assembly for a file
-day1/operator/complex.c.s:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/operator/complex.c.s
-.PHONY : day1/operator/complex.c.s
+c/operator/Math.c.s:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/operator/Math.c.s
+.PHONY : c/operator/Math.c.s
 
-day1/point/point.o: day1/point/point.c.o
+c/operator/complex.o: c/operator/complex.c.o
 
-.PHONY : day1/point/point.o
+.PHONY : c/operator/complex.o
 
 # target to build an object file
-day1/point/point.c.o:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/point/point.c.o
-.PHONY : day1/point/point.c.o
+c/operator/complex.c.o:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/operator/complex.c.o
+.PHONY : c/operator/complex.c.o
 
-day1/point/point.i: day1/point/point.c.i
+c/operator/complex.i: c/operator/complex.c.i
 
-.PHONY : day1/point/point.i
+.PHONY : c/operator/complex.i
 
 # target to preprocess a source file
-day1/point/point.c.i:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/point/point.c.i
-.PHONY : day1/point/point.c.i
+c/operator/complex.c.i:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/operator/complex.c.i
+.PHONY : c/operator/complex.c.i
 
-day1/point/point.s: day1/point/point.c.s
+c/operator/complex.s: c/operator/complex.c.s
 
-.PHONY : day1/point/point.s
+.PHONY : c/operator/complex.s
 
 # target to generate assembly for a file
-day1/point/point.c.s:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/point/point.c.s
-.PHONY : day1/point/point.c.s
+c/operator/complex.c.s:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/operator/complex.c.s
+.PHONY : c/operator/complex.c.s
 
-day1/static.o: day1/static.c.o
+c/point/point.o: c/point/point.c.o
 
-.PHONY : day1/static.o
+.PHONY : c/point/point.o
 
 # target to build an object file
-day1/static.c.o:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/static.c.o
-.PHONY : day1/static.c.o
+c/point/point.c.o:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/point/point.c.o
+.PHONY : c/point/point.c.o
 
-day1/static.i: day1/static.c.i
+c/point/point.i: c/point/point.c.i
 
-.PHONY : day1/static.i
+.PHONY : c/point/point.i
 
 # target to preprocess a source file
-day1/static.c.i:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/static.c.i
-.PHONY : day1/static.c.i
+c/point/point.c.i:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/point/point.c.i
+.PHONY : c/point/point.c.i
 
-day1/static.s: day1/static.c.s
+c/point/point.s: c/point/point.c.s
 
-.PHONY : day1/static.s
+.PHONY : c/point/point.s
 
 # target to generate assembly for a file
-day1/static.c.s:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/static.c.s
-.PHONY : day1/static.c.s
+c/point/point.c.s:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/point/point.c.s
+.PHONY : c/point/point.c.s
 
-day1/string/string.o: day1/string/string.c.o
+c/static.o: c/static.c.o
 
-.PHONY : day1/string/string.o
+.PHONY : c/static.o
 
 # target to build an object file
-day1/string/string.c.o:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/string/string.c.o
-.PHONY : day1/string/string.c.o
+c/static.c.o:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/static.c.o
+.PHONY : c/static.c.o
 
-day1/string/string.i: day1/string/string.c.i
+c/static.i: c/static.c.i
 
-.PHONY : day1/string/string.i
+.PHONY : c/static.i
 
 # target to preprocess a source file
-day1/string/string.c.i:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/string/string.c.i
-.PHONY : day1/string/string.c.i
+c/static.c.i:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/static.c.i
+.PHONY : c/static.c.i
 
-day1/string/string.s: day1/string/string.c.s
+c/static.s: c/static.c.s
 
-.PHONY : day1/string/string.s
+.PHONY : c/static.s
 
 # target to generate assembly for a file
-day1/string/string.c.s:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/string/string.c.s
-.PHONY : day1/string/string.c.s
+c/static.c.s:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/static.c.s
+.PHONY : c/static.c.s
 
-day1/structure/biteFiled.o: day1/structure/biteFiled.c.o
+c/string/string.o: c/string/string.c.o
 
-.PHONY : day1/structure/biteFiled.o
+.PHONY : c/string/string.o
 
 # target to build an object file
-day1/structure/biteFiled.c.o:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/structure/biteFiled.c.o
-.PHONY : day1/structure/biteFiled.c.o
+c/string/string.c.o:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/string/string.c.o
+.PHONY : c/string/string.c.o
 
-day1/structure/biteFiled.i: day1/structure/biteFiled.c.i
+c/string/string.i: c/string/string.c.i
 
-.PHONY : day1/structure/biteFiled.i
+.PHONY : c/string/string.i
 
 # target to preprocess a source file
-day1/structure/biteFiled.c.i:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/structure/biteFiled.c.i
-.PHONY : day1/structure/biteFiled.c.i
+c/string/string.c.i:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/string/string.c.i
+.PHONY : c/string/string.c.i
 
-day1/structure/biteFiled.s: day1/structure/biteFiled.c.s
+c/string/string.s: c/string/string.c.s
 
-.PHONY : day1/structure/biteFiled.s
+.PHONY : c/string/string.s
 
 # target to generate assembly for a file
-day1/structure/biteFiled.c.s:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/structure/biteFiled.c.s
-.PHONY : day1/structure/biteFiled.c.s
+c/string/string.c.s:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/string/string.c.s
+.PHONY : c/string/string.c.s
 
-day1/structure/structure.o: day1/structure/structure.c.o
+c/structure/biteFiled.o: c/structure/biteFiled.c.o
 
-.PHONY : day1/structure/structure.o
+.PHONY : c/structure/biteFiled.o
 
 # target to build an object file
-day1/structure/structure.c.o:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/structure/structure.c.o
-.PHONY : day1/structure/structure.c.o
+c/structure/biteFiled.c.o:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/structure/biteFiled.c.o
+.PHONY : c/structure/biteFiled.c.o
 
-day1/structure/structure.i: day1/structure/structure.c.i
+c/structure/biteFiled.i: c/structure/biteFiled.c.i
 
-.PHONY : day1/structure/structure.i
+.PHONY : c/structure/biteFiled.i
 
 # target to preprocess a source file
-day1/structure/structure.c.i:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/structure/structure.c.i
-.PHONY : day1/structure/structure.c.i
+c/structure/biteFiled.c.i:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/structure/biteFiled.c.i
+.PHONY : c/structure/biteFiled.c.i
 
-day1/structure/structure.s: day1/structure/structure.c.s
+c/structure/biteFiled.s: c/structure/biteFiled.c.s
 
-.PHONY : day1/structure/structure.s
+.PHONY : c/structure/biteFiled.s
 
 # target to generate assembly for a file
-day1/structure/structure.c.s:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/structure/structure.c.s
-.PHONY : day1/structure/structure.c.s
+c/structure/biteFiled.c.s:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/structure/biteFiled.c.s
+.PHONY : c/structure/biteFiled.c.s
 
-day1/testHead.o: day1/testHead.c.o
+c/structure/structure.o: c/structure/structure.c.o
 
-.PHONY : day1/testHead.o
+.PHONY : c/structure/structure.o
 
 # target to build an object file
-day1/testHead.c.o:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/testHead.c.o
-.PHONY : day1/testHead.c.o
+c/structure/structure.c.o:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/structure/structure.c.o
+.PHONY : c/structure/structure.c.o
 
-day1/testHead.i: day1/testHead.c.i
+c/structure/structure.i: c/structure/structure.c.i
 
-.PHONY : day1/testHead.i
+.PHONY : c/structure/structure.i
 
 # target to preprocess a source file
-day1/testHead.c.i:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/testHead.c.i
-.PHONY : day1/testHead.c.i
+c/structure/structure.c.i:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/structure/structure.c.i
+.PHONY : c/structure/structure.c.i
 
-day1/testHead.s: day1/testHead.c.s
+c/structure/structure.s: c/structure/structure.c.s
 
-.PHONY : day1/testHead.s
+.PHONY : c/structure/structure.s
 
 # target to generate assembly for a file
-day1/testHead.c.s:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/day1/testHead.c.s
-.PHONY : day1/testHead.c.s
+c/structure/structure.c.s:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/structure/structure.c.s
+.PHONY : c/structure/structure.c.s
+
+c/testHead.o: c/testHead.c.o
+
+.PHONY : c/testHead.o
+
+# target to build an object file
+c/testHead.c.o:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/testHead.c.o
+.PHONY : c/testHead.c.o
+
+c/testHead.i: c/testHead.c.i
+
+.PHONY : c/testHead.i
+
+# target to preprocess a source file
+c/testHead.c.i:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/testHead.c.i
+.PHONY : c/testHead.c.i
+
+c/testHead.s: c/testHead.c.s
+
+.PHONY : c/testHead.s
+
+# target to generate assembly for a file
+c/testHead.c.s:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/testHead.c.s
+.PHONY : c/testHead.c.s
+
+c/union/union.o: c/union/union.c.o
+
+.PHONY : c/union/union.o
+
+# target to build an object file
+c/union/union.c.o:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/union/union.c.o
+.PHONY : c/union/union.c.o
+
+c/union/union.i: c/union/union.c.i
+
+.PHONY : c/union/union.i
+
+# target to preprocess a source file
+c/union/union.c.i:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/union/union.c.i
+.PHONY : c/union/union.c.i
+
+c/union/union.s: c/union/union.c.s
+
+.PHONY : c/union/union.s
+
+# target to generate assembly for a file
+c/union/union.c.s:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/union/union.c.s
+.PHONY : c/union/union.c.s
 
 main.o: main.c.o
 
@@ -456,39 +483,42 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... ndk"
-	@echo "... day1/FirstHead.o"
-	@echo "... day1/FirstHead.i"
-	@echo "... day1/FirstHead.s"
-	@echo "... day1/array/array.o"
-	@echo "... day1/array/array.i"
-	@echo "... day1/array/array.s"
-	@echo "... day1/enums.o"
-	@echo "... day1/enums.i"
-	@echo "... day1/enums.s"
-	@echo "... day1/operator/Math.o"
-	@echo "... day1/operator/Math.i"
-	@echo "... day1/operator/Math.s"
-	@echo "... day1/operator/complex.o"
-	@echo "... day1/operator/complex.i"
-	@echo "... day1/operator/complex.s"
-	@echo "... day1/point/point.o"
-	@echo "... day1/point/point.i"
-	@echo "... day1/point/point.s"
-	@echo "... day1/static.o"
-	@echo "... day1/static.i"
-	@echo "... day1/static.s"
-	@echo "... day1/string/string.o"
-	@echo "... day1/string/string.i"
-	@echo "... day1/string/string.s"
-	@echo "... day1/structure/biteFiled.o"
-	@echo "... day1/structure/biteFiled.i"
-	@echo "... day1/structure/biteFiled.s"
-	@echo "... day1/structure/structure.o"
-	@echo "... day1/structure/structure.i"
-	@echo "... day1/structure/structure.s"
-	@echo "... day1/testHead.o"
-	@echo "... day1/testHead.i"
-	@echo "... day1/testHead.s"
+	@echo "... c/FirstHead.o"
+	@echo "... c/FirstHead.i"
+	@echo "... c/FirstHead.s"
+	@echo "... c/array/array.o"
+	@echo "... c/array/array.i"
+	@echo "... c/array/array.s"
+	@echo "... c/enums.o"
+	@echo "... c/enums.i"
+	@echo "... c/enums.s"
+	@echo "... c/operator/Math.o"
+	@echo "... c/operator/Math.i"
+	@echo "... c/operator/Math.s"
+	@echo "... c/operator/complex.o"
+	@echo "... c/operator/complex.i"
+	@echo "... c/operator/complex.s"
+	@echo "... c/point/point.o"
+	@echo "... c/point/point.i"
+	@echo "... c/point/point.s"
+	@echo "... c/static.o"
+	@echo "... c/static.i"
+	@echo "... c/static.s"
+	@echo "... c/string/string.o"
+	@echo "... c/string/string.i"
+	@echo "... c/string/string.s"
+	@echo "... c/structure/biteFiled.o"
+	@echo "... c/structure/biteFiled.i"
+	@echo "... c/structure/biteFiled.s"
+	@echo "... c/structure/structure.o"
+	@echo "... c/structure/structure.i"
+	@echo "... c/structure/structure.s"
+	@echo "... c/testHead.o"
+	@echo "... c/testHead.i"
+	@echo "... c/testHead.s"
+	@echo "... c/union/union.o"
+	@echo "... c/union/union.i"
+	@echo "... c/union/union.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

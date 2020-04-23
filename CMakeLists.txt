@@ -3,4 +3,4 @@ project(ndk C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(ndk main.c day1/static.c day1/FirstHead.h day1/FirstHead.c day1/testHead.c day1/operator/Math.c day1/operator/complex.c day1/array/array.c day1/enums.c day1/point/point.c day1/string/string.c day1/structure/structure.c day1/structure/biteFiled.c)
+add_executable(ndk main.c c/static.c c/FirstHead.h c/FirstHead.c c/testHead.c c/operator/Math.c c/operator/complex.c c/array/array.c c/enums.c c/point/point.c c/string/string.c c/structure/structure.c c/structure/biteFiled.c c/union/union.c)

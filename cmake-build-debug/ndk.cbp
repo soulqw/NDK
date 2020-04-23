@@ -78,40 +78,43 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/cd5160866/CLionProjects/ndk/day1/FirstHead.c">
+		<Unit filename="/Users/cd5160866/CLionProjects/ndk/c/FirstHead.c">
 			<Option target="ndk"/>
 		</Unit>
-		<Unit filename="/Users/cd5160866/CLionProjects/ndk/day1/FirstHead.h">
+		<Unit filename="/Users/cd5160866/CLionProjects/ndk/c/FirstHead.h">
 			<Option target="ndk"/>
 		</Unit>
-		<Unit filename="/Users/cd5160866/CLionProjects/ndk/day1/array/array.c">
+		<Unit filename="/Users/cd5160866/CLionProjects/ndk/c/array/array.c">
 			<Option target="ndk"/>
 		</Unit>
-		<Unit filename="/Users/cd5160866/CLionProjects/ndk/day1/enums.c">
+		<Unit filename="/Users/cd5160866/CLionProjects/ndk/c/enums.c">
 			<Option target="ndk"/>
 		</Unit>
-		<Unit filename="/Users/cd5160866/CLionProjects/ndk/day1/operator/Math.c">
+		<Unit filename="/Users/cd5160866/CLionProjects/ndk/c/operator/Math.c">
 			<Option target="ndk"/>
 		</Unit>
-		<Unit filename="/Users/cd5160866/CLionProjects/ndk/day1/operator/complex.c">
+		<Unit filename="/Users/cd5160866/CLionProjects/ndk/c/operator/complex.c">
 			<Option target="ndk"/>
 		</Unit>
-		<Unit filename="/Users/cd5160866/CLionProjects/ndk/day1/point/point.c">
+		<Unit filename="/Users/cd5160866/CLionProjects/ndk/c/point/point.c">
 			<Option target="ndk"/>
 		</Unit>
-		<Unit filename="/Users/cd5160866/CLionProjects/ndk/day1/static.c">
+		<Unit filename="/Users/cd5160866/CLionProjects/ndk/c/static.c">
 			<Option target="ndk"/>
 		</Unit>
-		<Unit filename="/Users/cd5160866/CLionProjects/ndk/day1/string/string.c">
+		<Unit filename="/Users/cd5160866/CLionProjects/ndk/c/string/string.c">
 			<Option target="ndk"/>
 		</Unit>
-		<Unit filename="/Users/cd5160866/CLionProjects/ndk/day1/structure/biteFiled.c">
+		<Unit filename="/Users/cd5160866/CLionProjects/ndk/c/structure/biteFiled.c">
 			<Option target="ndk"/>
 		</Unit>
-		<Unit filename="/Users/cd5160866/CLionProjects/ndk/day1/structure/structure.c">
+		<Unit filename="/Users/cd5160866/CLionProjects/ndk/c/structure/structure.c">
 			<Option target="ndk"/>
 		</Unit>
-		<Unit filename="/Users/cd5160866/CLionProjects/ndk/day1/testHead.c">
+		<Unit filename="/Users/cd5160866/CLionProjects/ndk/c/testHead.c">
+			<Option target="ndk"/>
+		</Unit>
+		<Unit filename="/Users/cd5160866/CLionProjects/ndk/c/union/union.c">
 			<Option target="ndk"/>
 		</Unit>
 		<Unit filename="/Users/cd5160866/CLionProjects/ndk/main.c">

@@ -4,17 +4,18 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/cd5160866/CLionProjects/ndk/day1/FirstHead.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/day1/FirstHead.c.o"
-  "/Users/cd5160866/CLionProjects/ndk/day1/array/array.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/day1/array/array.c.o"
-  "/Users/cd5160866/CLionProjects/ndk/day1/enums.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/day1/enums.c.o"
-  "/Users/cd5160866/CLionProjects/ndk/day1/operator/Math.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/day1/operator/Math.c.o"
-  "/Users/cd5160866/CLionProjects/ndk/day1/operator/complex.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/day1/operator/complex.c.o"
-  "/Users/cd5160866/CLionProjects/ndk/day1/point/point.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/day1/point/point.c.o"
-  "/Users/cd5160866/CLionProjects/ndk/day1/static.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/day1/static.c.o"
-  "/Users/cd5160866/CLionProjects/ndk/day1/string/string.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/day1/string/string.c.o"
-  "/Users/cd5160866/CLionProjects/ndk/day1/structure/biteFiled.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/day1/structure/biteFiled.c.o"
-  "/Users/cd5160866/CLionProjects/ndk/day1/structure/structure.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/day1/structure/structure.c.o"
-  "/Users/cd5160866/CLionProjects/ndk/day1/testHead.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/day1/testHead.c.o"
+  "/Users/cd5160866/CLionProjects/ndk/c/FirstHead.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/c/FirstHead.c.o"
+  "/Users/cd5160866/CLionProjects/ndk/c/array/array.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/c/array/array.c.o"
+  "/Users/cd5160866/CLionProjects/ndk/c/enums.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/c/enums.c.o"
+  "/Users/cd5160866/CLionProjects/ndk/c/operator/Math.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/c/operator/Math.c.o"
+  "/Users/cd5160866/CLionProjects/ndk/c/operator/complex.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/c/operator/complex.c.o"
+  "/Users/cd5160866/CLionProjects/ndk/c/point/point.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/c/point/point.c.o"
+  "/Users/cd5160866/CLionProjects/ndk/c/static.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/c/static.c.o"
+  "/Users/cd5160866/CLionProjects/ndk/c/string/string.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/c/string/string.c.o"
+  "/Users/cd5160866/CLionProjects/ndk/c/structure/biteFiled.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/c/structure/biteFiled.c.o"
+  "/Users/cd5160866/CLionProjects/ndk/c/structure/structure.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/c/structure/structure.c.o"
+  "/Users/cd5160866/CLionProjects/ndk/c/testHead.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/c/testHead.c.o"
+  "/Users/cd5160866/CLionProjects/ndk/c/union/union.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/c/union/union.c.o"
   "/Users/cd5160866/CLionProjects/ndk/main.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
