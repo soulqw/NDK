@@ -90,6 +90,9 @@
 		<Unit filename="/Users/cd5160866/CLionProjects/ndk/c/enums.c">
 			<Option target="ndk"/>
 		</Unit>
+		<Unit filename="/Users/cd5160866/CLionProjects/ndk/c/inoutput/input.c">
+			<Option target="ndk"/>
+		</Unit>
 		<Unit filename="/Users/cd5160866/CLionProjects/ndk/c/operator/Math.c">
 			<Option target="ndk"/>
 		</Unit>

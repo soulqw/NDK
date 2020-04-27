@@ -204,6 +204,33 @@ c/enums.c.s:
 	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/enums.c.s
 .PHONY : c/enums.c.s
 
+c/inoutput/input.o: c/inoutput/input.c.o
+
+.PHONY : c/inoutput/input.o
+
+# target to build an object file
+c/inoutput/input.c.o:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/inoutput/input.c.o
+.PHONY : c/inoutput/input.c.o
+
+c/inoutput/input.i: c/inoutput/input.c.i
+
+.PHONY : c/inoutput/input.i
+
+# target to preprocess a source file
+c/inoutput/input.c.i:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/inoutput/input.c.i
+.PHONY : c/inoutput/input.c.i
+
+c/inoutput/input.s: c/inoutput/input.c.s
+
+.PHONY : c/inoutput/input.s
+
+# target to generate assembly for a file
+c/inoutput/input.c.s:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/inoutput/input.c.s
+.PHONY : c/inoutput/input.c.s
+
 c/operator/Math.o: c/operator/Math.c.o
 
 .PHONY : c/operator/Math.o
@@ -492,6 +519,9 @@ help:
 	@echo "... c/enums.o"
 	@echo "... c/enums.i"
 	@echo "... c/enums.s"
+	@echo "... c/inoutput/input.o"
+	@echo "... c/inoutput/input.i"
+	@echo "... c/inoutput/input.s"
 	@echo "... c/operator/Math.o"
 	@echo "... c/operator/Math.i"
 	@echo "... c/operator/Math.s"

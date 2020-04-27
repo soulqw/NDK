@@ -2,6 +2,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/ndk.dir/c/FirstHead.c.o"
   "CMakeFiles/ndk.dir/c/array/array.c.o"
   "CMakeFiles/ndk.dir/c/enums.c.o"
+  "CMakeFiles/ndk.dir/c/inoutput/input.c.o"
   "CMakeFiles/ndk.dir/c/operator/Math.c.o"
   "CMakeFiles/ndk.dir/c/operator/complex.c.o"
   "CMakeFiles/ndk.dir/c/point/point.c.o"

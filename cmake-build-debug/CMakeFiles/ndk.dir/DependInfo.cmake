@@ -7,6 +7,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/cd5160866/CLionProjects/ndk/c/FirstHead.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/c/FirstHead.c.o"
   "/Users/cd5160866/CLionProjects/ndk/c/array/array.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/c/array/array.c.o"
   "/Users/cd5160866/CLionProjects/ndk/c/enums.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/c/enums.c.o"
+  "/Users/cd5160866/CLionProjects/ndk/c/inoutput/input.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/c/inoutput/input.c.o"
   "/Users/cd5160866/CLionProjects/ndk/c/operator/Math.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/c/operator/Math.c.o"
   "/Users/cd5160866/CLionProjects/ndk/c/operator/complex.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/c/operator/complex.c.o"
   "/Users/cd5160866/CLionProjects/ndk/c/point/point.c" "/Users/cd5160866/CLionProjects/ndk/cmake-build-debug/CMakeFiles/ndk.dir/c/point/point.c.o"
