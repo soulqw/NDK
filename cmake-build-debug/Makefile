@@ -231,6 +231,33 @@ c/inoutput/input.c.s:
 	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/inoutput/input.c.s
 .PHONY : c/inoutput/input.c.s
 
+c/memorymanage/memory.o: c/memorymanage/memory.c.o
+
+.PHONY : c/memorymanage/memory.o
+
+# target to build an object file
+c/memorymanage/memory.c.o:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/memorymanage/memory.c.o
+.PHONY : c/memorymanage/memory.c.o
+
+c/memorymanage/memory.i: c/memorymanage/memory.c.i
+
+.PHONY : c/memorymanage/memory.i
+
+# target to preprocess a source file
+c/memorymanage/memory.c.i:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/memorymanage/memory.c.i
+.PHONY : c/memorymanage/memory.c.i
+
+c/memorymanage/memory.s: c/memorymanage/memory.c.s
+
+.PHONY : c/memorymanage/memory.s
+
+# target to generate assembly for a file
+c/memorymanage/memory.c.s:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/c/memorymanage/memory.c.s
+.PHONY : c/memorymanage/memory.c.s
+
 c/operator/Math.o: c/operator/Math.c.o
 
 .PHONY : c/operator/Math.o
@@ -522,6 +549,9 @@ help:
 	@echo "... c/inoutput/input.o"
 	@echo "... c/inoutput/input.i"
 	@echo "... c/inoutput/input.s"
+	@echo "... c/memorymanage/memory.o"
+	@echo "... c/memorymanage/memory.i"
+	@echo "... c/memorymanage/memory.s"
 	@echo "... c/operator/Math.o"
 	@echo "... c/operator/Math.i"
 	@echo "... c/operator/Math.s"
