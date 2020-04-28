@@ -123,6 +123,9 @@
 		<Unit filename="/Users/cd5160866/CLionProjects/ndk/c/union/union.c">
 			<Option target="ndk"/>
 		</Unit>
+		<Unit filename="/Users/cd5160866/CLionProjects/ndk/cplus/first.cpp">
+			<Option target="ndk"/>
+		</Unit>
 		<Unit filename="/Users/cd5160866/CLionProjects/ndk/main.c">
 			<Option target="ndk"/>
 		</Unit>
